@@ -1,6 +1,6 @@
 # Sistema CMS Vogue pronto para uso em containers Docker.  
   
-![Takatsu's Projects](https://wesleytakatsu.github.io/Pagina-Apresentacao-Pessoal/media/img/Logo-Takatsu-Projetos.png)
+<img src="https://github.com/abraao69/ApiRestful-teste/blob/main/logo.png" alt="Logo" width="200" height="100">
   
 
 ## CRÉDITOS AO AUTOR DO SISTEMA CMS VOGUE:  
