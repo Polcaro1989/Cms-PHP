@@ -1,14 +1,13 @@
-# Sistema CMS Vogue pronto para uso em containers Docker.  
   
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/abraao69/ApiRestful-teste/blob/main/logo.png" alt="Logo" width="200" height="100">
   <img src="https://github.com/abraao69/abraao69-portfolio-abraao/blob/master/testinho/portfolio/1679067787215.jpeg" alt="Logo" width="70" height="100" style="border-radius: 100%;">
+  <img src="https://github.com/abraao69/ApiRestful-teste/blob/main/logo.png" alt="Logo" width="200" height="100">
   <br><br>  
-
 </div>
-<br><br>  
 
-## CRÉDITOS AO AUTOR DO SISTEMA CMS VOGUE:  
+# Sistema CMS Vogue pronto para uso em containers Docker.  
+
+# CRÉDITOS AO AUTOR DO SISTEMA CMS VOGUE:  
 https://www.sourcecodester.com/php/15517/company-website-cms-php.html  
   
 ### O sistema é antigo e já foi descontinuado. Aconselho usar apenas para fins pessoais.
