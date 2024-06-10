@@ -1,6 +1,6 @@
   
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/abraao69/ApiRestful-teste/blob/main/logo.png" alt="Logo" width="200" height="100">
+  <img src="https://github.com/abraao69/Cms-PHP/blob/main/logo.png" alt="Logo" width="200" height="100">
   <br><br>  
 </div>
 
